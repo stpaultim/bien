@@ -28,5 +28,5 @@ complete text.
 Current Maintainers
 -------------------
 
-* Geoff St. Pierre [serundeputy](https://github.com/serundeputy).
+* Tim Erickson ([@stpaultim](https://github.com/stpaultim)).
 * Seeking additional maintainers.
