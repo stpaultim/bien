@@ -30,3 +30,8 @@ Current Maintainers
 
 * Tim Erickson ([@stpaultim](https://github.com/stpaultim)).
 * Seeking additional maintainers.
+
+Other Credits
+-------------
+
+* Ideal and initial work on this module by: Geoff St. Pierre [serundeputy](https://github.com/serundeputy).
